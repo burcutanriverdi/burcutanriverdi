@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burcutanriverdi
+- 👋 Hi, I’m @burcutanriverdi!
 - 👀 I’m interested in electronics, software, data science, machine learning.
 - 🌱 I’m currently learning C & Python
 - 💞️ I’m looking to collaborate on Hackathon projects.
