@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burcutanriverdi!
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning C & Python.
+- 🌱 I’m currently learning C, Python & Java.
 - 💞️ I’m looking to collaborate on Hackathon projects.
 - 📫 You can reach me on LinkedIn.
 
